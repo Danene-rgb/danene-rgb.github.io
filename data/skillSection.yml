@@ -1,0 +1,26 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Migliorando ogni giorno
+
+   Non potrei fare altro nella vita. 
+
+image: images/skill/daniel-ingenito-skill.jpg
+
+skill:
+  - title:  Illustrator
+    percent: 90
+  - title:  Photoshop
+    percent: 80
+  - title: Indesign 
+    percent: 80
+  - title: Wordpress 
+    percent: 90
+  - title: Html e CSS 
+    percent: 70
+  - title: Adobe XD
+    percent: 65
+
+
+

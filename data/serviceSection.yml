@@ -1,0 +1,42 @@
+---
+enable: true
+topTitle: Servizi
+title: >
+  ## Cosa faccio
+
+  Era questa la sezione che cercavi, giusto?
+service:
+  - content: >
+      #### Web Design
+
+      Progetto e realizzo siti web: pixel-perfect, mobile-first, responsive e tutte quelle cose li. La tua azienda merita un bel sito e io sono qui per questo.
+
+
+
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Branding 
+
+      Dalla prima bozza logo fino al colore delle porte del tuo locale. Creare un brand è complesso, ma vedrai che ne varrà la pena, promesso. 
+
+    image: images/service/web.svg
+  - content: >
+      #### Social Media
+
+      Essere sui social senza una strategia è come non esserci. Creerò per te il calendario editoriale e i contenuti perfetti per raggiungere il tuo target.
+    image: images/service/creative.svg
+  - content: >
+      #### Visual Design
+
+      Progetto grafiche per packaging, eventi, campagne offline e online, 
+      cataloghi e tanto altro. Renderò il tuo progetto memorabile. 
+
+    image: images/service/branding.svg
+  - content: >
+      #### Illustrazione
+
+      Illustrare, prima di un lavoro, è una passione. 
+      Illustro storie per bambini e adulti, copertine per libri e cataloghi,
+      illustrazioni per il tuo sito web.
+    image: images/service/ui-ux.svg
+ 

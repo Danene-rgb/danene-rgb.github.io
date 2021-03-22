@@ -1,0 +1,28 @@
+---
+enable: true
+topTitle: Qualche info
+title: >
+  ## Su di me
+
+  Credo nel design, ma non dei paroloni
+content: >
+  ### Il tuo amichevole grafico di quartiere (e un po' più in là)
+
+  25 anni, ligure, nerd. 
+
+
+  Amo l'arte, i fumetti e la musica in streaming. 
+  Non amo la banalità, anche se ha un certo fascino. Amo la grafica, il design e l'inaspettato. Non amo la perfezione a tutti costì, le cose troppo complicate e le cose troppo semplici.
+
+
+  Se sei arrivato fin qui o sei veramente interessato o sei alla disperata ricerca di un grafico. 
+
+
+  In entrambi i casi, eccomi qui.
+
+
+button1Name: Parliamo
+button2Name: Scarica CV
+button1Target: contact
+button2Target: contact
+image: images/about/daniel-ingenito-graphicdesigner-chi-sono.jpg

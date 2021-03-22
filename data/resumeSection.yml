@@ -1,0 +1,50 @@
+---
+enable: true
+topTitle: Resume
+title: >
+  ## La mia esperienza
+
+
+  Da quel primo logo fatto a 14 anni per un compito in classe non ho mai smesso di studiare e mettermi alla prova. Negli anni ho lavorato con tanti professionisti e per aziende grandi e piccole.
+tab1Name: Lavoro
+tab2Name: Formazione
+tab1Target: education
+tab2Target: experience
+
+education:
+
+  - content: >
+      #### Consulente e Social Media Manager
+
+       per conto di Costa Crociere Foundation
+    time: 2018-presente
+  - content: >
+      #### Social Media Strategist 
+
+      Internship formativo presso Costa Crociere Foundation
+    time: 2017-2018
+  - content: >
+      #### Docente di Tecniche 
+      Laboratoriali
+
+      Presso I.I.S. Giovanni Caboto (Chiavari, GE) nelle classi terze,quarte e quinte.
+    time: 2014-2020
+
+
+experience:
+  - content: >
+      #### Diploma di laurea - 110/110 con Lode
+
+      Progettazione artistica per l'impresa - Accademia Ligustica di belle Arti di Genova
+    time: 2014-2018
+  - content: >
+      ####  Diploma di maturità - 100/100 
+
+      Tecnico della grafica all'Istituto Istruzione Superiore G.Caboto di Chiavari 100/100
+    time:  2010-2014
+  - content: >
+      #### Stage Formativo
+
+      Studio Grafico Misiaproject 
+    time: 2012-2014
+  

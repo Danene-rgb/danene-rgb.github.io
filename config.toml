@@ -1,0 +1,114 @@
+baseURL = "/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio"
+title = "Daniel Ingenito - Visual Designer"
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "Chi sono"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Cosa faccio"
+url = "#service"
+weight = 3
+[[menu.main]]
+name = "Portfolio"
+url = "#portfolio"
+weight = 4
+[[menu.main]]
+name = "Resume"
+url = "#resume"
+weight = 5
+[[menu.main]]
+
+
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "Chi sono"
+url = "#about"
+weight = 1
+[[menu.sitemap]]
+name = "Cosa Faccio"
+url = "#service"
+weight = 2
+[[menu.sitemap]]
+name = "Portfolio"
+url = "#portfolio"
+weight = 3
+[[menu.sitemap]]
+name = "Resume"
+url = "#resume"
+weight = 4
+[[menu.sitemap]]
+name = "Privacy & Policy"
+url = "https://www.iubenda.com/privacy-policy/91709832"
+weight = 5
+[[menu.sitemap]]
+name = "Ultimi articoli"
+url = "#"
+weight = 6
+
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact/"
+copyright = "Tutti i diritti riservati © Daniel Ingenito 2021"
+footerLogo = "images/contact/widget-logo.png"
+formspreeURL = "https://formspree.io/f/meqpnbby"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+address = "Corso Lavagna 34 - 16043 Chiavari (GE)"
+email = "info@danielingenito.it"
+openingHours = "9:00/18:00 da Lunedì a Venerdì"
+phone = "+(39)331 6303578"
+
+[params.map]
+APIkey = "YOUR GOOGLE MAP API"
+latitude = "23.7783741"
+longitude = "90.3746808"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/daniel-ingenito/"
+weight = 1
+[[params.social]]
+icon = "fa-instagram"
+url = "https://www.instagram.com/danenegram/"
+weight = 2
+[[params.social]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/Daniel_Ingenito"
+weight = 3
+
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = false
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
